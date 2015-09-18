@@ -1,0 +1,2 @@
+# Hajimemashite
+My first Repo
